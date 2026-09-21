@@ -2,25 +2,25 @@
   "schemaVersion": 3,
   "payloads": [
     {
-      "payloadId": "S901BXXSNGZD7",
-      "displayName": "Galaxy S22 (SM-S901B) | S901BXXSNGZD7 | Kernel 5.10.237",
+      "payloadId": "S908EXXSEGZE3",
+      "displayName": "Galaxy S22 Ultra (SM-S908E) | S908EXXSEGZE3 | Kernel 5.10.236",
       "models": [
-        "SM-S901B"
+        "SM-S908E"
       ],
       "kernelVersions": [
-        "5.10.237"
+        "5.10.236"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S901BXXSNGZD7/cve-2026-43499",
-        "size": 121600
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499",
+        "size": 744840
       },
       "exploitRoot": {
-        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S901BXXSNGZD7/cve-2026-43499-root",
-        "size": 13960
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499-root",
+        "size": 14064
       },
       "exploitHelper": {
-        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S901BXXSNGZD7/cve-exp32",
-        "size": 11132
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-exp32",
+        "size": 640476
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
@@ -28,12 +28,59 @@
       }
     },
     {
-      "payloadId": "S901EXXSEGZE3",
-      "displayName": "Galaxy S22 (SM-S901E) | S901EXXSEGZE3 | Kernel 5.10.236",
+      "payloadId": "SCG14KDS1EZE3",
+      "displayName": "Galaxy S22 Ultra (SCG14) | SCG14KDS1EZE3 | Kernel 5.10.236",
       "models": [
-        "SM-S901E"
+        "SCG14"
       ],
       "kernelVersions": [
+        "5.10.236"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/SCG14KDS1EZE3/cve-2026-43499",
+        "size": 745544
+      },
+      "exploitRoot": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/SCG14KDS1EZE3/cve-2026-43499-root",
+        "size": 13960
+      },
+      "exploitHelper": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/SCG14KDS1EZE3/cve-exp32",
+        "size": 640476
+      },
+      "kernelsu": {
+        "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
+        "size": 461880
+      }
+    },
+    {
+      "payloadId": "S908NKSS9GZE5",
+      "displayName": "Galaxy S22 Ultra (SM-S908N) | S908NKSS9GZE5 | Kernel 5.10.236",
+      "models": [
+        "SM-S908N"
+      ],
+      "kernelVersions": [
+        "5.10.236"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908NKSS9GZE5/cve-2026-43499",
+        "size": 744840
+      },
+      "exploitRoot": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908NKSS9GZE5/cve-2026-43499-root",
+        "size": 14064
+      },
+      "exploitHelper": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908NKSS9GZE5/cve-exp32",
+        "size": 640476
+      },
+      "kernelsu": {
+        "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
+        "size": 461880
+      }
+    }
+  ]
+}
         "5.10.236"
       ],
       "exploit": {
