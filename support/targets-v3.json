@@ -2,6 +2,32 @@
   "schemaVersion": 3,
   "payloads": [
     {
+      "payloadId": "S908BXXSNGZD7",
+      "displayName": "Galaxy S22 Ultra (SM-S908B) | S908BXXSNGZD7 | Kernel 5.10.237",
+      "models": [
+        "SM-S908B"
+      ],
+      "kernelVersions": [
+        "5.10.237"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908BXXSNGZD7/cve-2026-43499",
+        "size": 750448
+      },
+      "exploitRoot": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908BXXSNGZD7/cve-2026-43499-root",
+        "size": 13960
+      },
+      "exploitHelper": {
+        "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908BXXSNGZD7/cve-exp32",
+        "size": 640476
+      },
+      "kernelsu": {
+        "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
+        "size": 461880
+      }
+    },
+    {
       "payloadId": "S908EXXSEGZE3",
       "displayName": "Galaxy S22 Ultra (SM-S908E) | S908EXXSEGZE3 | Kernel 5.10.236",
       "models": [
@@ -12,11 +38,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499",
-        "size": 745088
+        "size": 744840
       },
       "exploitRoot": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499-root",
-        "size": 13960
+        "size": 14064
       },
       "exploitHelper": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-exp32",
@@ -24,7 +50,7 @@
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
-        "size": 463544
+        "size": 461880
       }
     },
     {
@@ -50,7 +76,7 @@
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
-        "size": 463544
+        "size": 461880
       }
     },
     {
@@ -76,7 +102,7 @@
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
-        "size": 463544
+        "size": 461880
       }
     }
   ]
