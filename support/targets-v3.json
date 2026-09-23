@@ -38,11 +38,11 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499",
-        "size": 744840
+        "size": 745088
       },
       "exploitRoot": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-2026-43499-root",
-        "size": 14064
+        "size": 13960
       },
       "exploitHelper": {
         "url": "https://raw.githubusercontent.com/twilight0672/S22test/main/artifacts/S908EXXSEGZE3/cve-exp32",
